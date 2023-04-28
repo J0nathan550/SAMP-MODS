@@ -1188,3 +1188,94 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [22:38:28] [connection] incoming connection: 127.0.0.1:60177 id: 0
 [22:38:29] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
 [22:38:36] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:39:41] 
+[23:39:41] Server Plugins
+[23:39:41] --------------
+[23:39:41]  Loaded 0 plugins.
+
+[23:39:41] 
+[23:39:41] Filterscripts
+[23:39:41] ---------------
+[23:39:41]   Loaded 0 filterscripts.
+
+[23:39:41] 
+----------------------------------
+[23:39:41]  Test Rozvoz Gamemode
+[23:39:41] ----------------------------------
+
+[23:39:41] Number of vehicle models: 0
+[23:40:14] [connection] 127.0.0.1:54846 requests connection cookie.
+[23:40:15] [connection] incoming connection: 127.0.0.1:54846 id: 0
+[23:40:15] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[23:43:45] [part] Jonathan_Sodertorm has left the server (0:1)
+[23:44:05] [connection] 127.0.0.1:50887 requests connection cookie.
+[23:44:06] [connection] incoming connection: 127.0.0.1:50887 id: 0
+[23:44:06] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[23:44:43] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:46:25] 
+[23:46:25] Server Plugins
+[23:46:25] --------------
+[23:46:25]  Loaded 0 plugins.
+
+[23:46:25] 
+[23:46:25] Filterscripts
+[23:46:25] ---------------
+[23:46:25]   Loaded 0 filterscripts.
+
+[23:46:25] 
+----------------------------------
+[23:46:25]  Test Rozvoz Gamemode
+[23:46:25] ----------------------------------
+
+[23:46:25] Number of vehicle models: 0
+[23:46:43] [connection] 127.0.0.1:53225 requests connection cookie.
+[23:46:44] [connection] incoming connection: 127.0.0.1:53225 id: 0
+[23:46:44] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[23:47:17] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:47:30] 
+[23:47:30] Server Plugins
+[23:47:30] --------------
+[23:47:30]  Loaded 0 plugins.
+
+[23:47:30] 
+[23:47:30] Filterscripts
+[23:47:30] ---------------
+[23:47:30]   Loaded 0 filterscripts.
+
+[23:47:30] 
+----------------------------------
+[23:47:30]  Test Rozvoz Gamemode
+[23:47:30] ----------------------------------
+
+[23:47:30] Number of vehicle models: 0
+[23:47:48] [connection] 127.0.0.1:52660 requests connection cookie.
+[23:47:49] [connection] incoming connection: 127.0.0.1:52660 id: 0
+[23:47:49] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[23:48:08] [part] Jonathan_Sodertorm has left the server (0:1)

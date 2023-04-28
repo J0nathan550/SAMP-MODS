@@ -31,7 +31,7 @@ public OnGameModeInit()
 	// Don't use these lines if it's a filterscript
 	SetGameModeText("Test Rozvoz");
 	AddPlayerClass(0,1995.0492,1328.3088,26.0691,353.8474,0,0,0,0,0,0);
-	jobpickup = CreatePickup(1279, 2, 2003.2836, 1338.7914, 26.1432, -1);
+	jobpickup = CreatePickup(1279, -1, 2003.2836, 1338.7914, 26.1432, -1);
 	Create3DTextLabel("{00c3ff}Работа развозчика", 0xff4800AA, 2003.2836, 1338.7914, 26.1432, 50, 0, 1);
 	return 1;
 }
@@ -59,6 +59,12 @@ public OnPlayerConnect(playerid)
 
 public OnPlayerDisconnect(playerid, reason)
 {
+	SetPVarInt(playerid, "Rozvoz", 0);
+	SetPVarInt(playerid, "RozvozAchived", 0);
+	DestroyVehicle(razvozCar[playerid]);
+	DisablePlayerCheckpoint(playerid);
+	razvozTimerCount[playerid] = 60;
+	KillTimer(razvozTimer[playerid]);
 	return 1;
 }
 
@@ -158,7 +164,7 @@ public OnPlayerStateChange(playerid, newstate, oldstate)
 
 public OnPlayerEnterCheckpoint(playerid)
 {
-    if(GetPVarInt(playerid, "Rozvoz") == 1 && GetPVarInt(playerid, "RozvozAchived") == 0)
+    if(GetPVarInt(playerid, "Rozvoz") == 1 && GetPVarInt(playerid, "RozvozAchived") == 0 && GetPlayerState(playerid) == PLAYER_STATE_DRIVER)
     {
         GivePlayerMoney(playerid, 5000);
         DisablePlayerCheckpoint(playerid);
@@ -166,7 +172,7 @@ public OnPlayerEnterCheckpoint(playerid)
         SetPVarInt(playerid, "RozvozAchived", 1);
 		return 1;
     }
-    if(GetPVarInt(playerid, "Rozvoz") == 1 && GetPVarInt(playerid, "RozvozAchived") == 1)
+    if(GetPVarInt(playerid, "Rozvoz") == 1 && GetPVarInt(playerid, "RozvozAchived") == 1 && GetPlayerState(playerid) == PLAYER_STATE_DRIVER)
     {
         DisablePlayerCheckpoint(playerid);
         GenerateCheckPoint(playerid);
