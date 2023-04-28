@@ -1,0 +1,1190 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:22:10] 
+[01:22:10] Server Plugins
+[01:22:10] --------------
+[01:22:10]  Loaded 0 plugins.
+
+[01:22:10] 
+[01:22:10] Filterscripts
+[01:22:10] ---------------
+[01:22:10]   Loaded 0 filterscripts.
+
+[01:22:10] 
+----------------------------------
+[01:22:10]  Blank Gamemode by your name here
+[01:22:10] ----------------------------------
+
+[01:22:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:32:28] 
+[01:32:28] Server Plugins
+[01:32:28] --------------
+[01:32:28]  Loaded 0 plugins.
+
+[01:32:28] 
+[01:32:28] Filterscripts
+[01:32:28] ---------------
+[01:32:28]   Loaded 0 filterscripts.
+
+[01:32:28] 
+----------------------------------
+[01:32:28]  Blank Gamemode by your name here
+[01:32:28] ----------------------------------
+
+[01:32:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:06:12] 
+[11:06:12] Server Plugins
+[11:06:12] --------------
+[11:06:12]  Loaded 0 plugins.
+
+[11:06:12] 
+[11:06:12] Filterscripts
+[11:06:12] ---------------
+[11:06:12]   Loaded 0 filterscripts.
+
+[11:06:12] 
+----------------------------------
+[11:06:12]  Blank Gamemode by your name here
+[11:06:12] ----------------------------------
+
+[11:06:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:14:54] 
+[11:14:54] Server Plugins
+[11:14:54] --------------
+[11:14:54]  Loaded 0 plugins.
+
+[11:14:54] 
+[11:14:54] Filterscripts
+[11:14:54] ---------------
+[11:14:54]   Loaded 0 filterscripts.
+
+[11:14:54] 
+----------------------------------
+[11:14:54]  Blank Gamemode by your name here
+[11:14:54] ----------------------------------
+
+[11:14:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:19:14] 
+[11:19:14] Server Plugins
+[11:19:14] --------------
+[11:19:14]  Loaded 0 plugins.
+
+[11:19:14] 
+[11:19:14] Filterscripts
+[11:19:14] ---------------
+[11:19:14]   Loaded 0 filterscripts.
+
+[11:19:14] 
+----------------------------------
+[11:19:14]  Blank Gamemode by your name here
+[11:19:14] ----------------------------------
+
+[11:19:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:32:35] 
+[11:32:35] Server Plugins
+[11:32:35] --------------
+[11:32:35]  Loaded 0 plugins.
+
+[11:32:35] 
+[11:32:35] Filterscripts
+[11:32:35] ---------------
+[11:32:35]   Loaded 0 filterscripts.
+
+[11:32:35] 
+----------------------------------
+[11:32:35]  Blank Gamemode by your name here
+[11:32:35] ----------------------------------
+
+[11:32:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:02:52] 
+[09:02:52] Server Plugins
+[09:02:52] --------------
+[09:02:52]  Loaded 0 plugins.
+
+[09:02:52] 
+[09:02:52] Filterscripts
+[09:02:52] ---------------
+[09:02:52]   Loaded 0 filterscripts.
+
+[09:02:52] 
+----------------------------------
+[09:02:52]  Blank Gamemode by your name here
+[09:02:52] ----------------------------------
+
+[09:02:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:03:12] 
+[09:03:12] Server Plugins
+[09:03:12] --------------
+[09:03:12]  Loaded 0 plugins.
+
+[09:03:12] 
+[09:03:12] Filterscripts
+[09:03:12] ---------------
+[09:03:12]   Loaded 0 filterscripts.
+
+[09:03:12] 
+----------------------------------
+[09:03:12]  Blank Gamemode by your name here
+[09:03:12] ----------------------------------
+
+[09:03:12] Number of vehicle models: 0
+[09:16:20] [connection] 127.0.0.1:59189 requests connection cookie.
+[09:16:21] [connection] incoming connection: 127.0.0.1:59189 id: 0
+[09:16:21] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[09:36:11] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:49:59] 
+[10:49:59] Server Plugins
+[10:49:59] --------------
+[10:49:59]  Loaded 0 plugins.
+
+[10:49:59] 
+[10:49:59] Filterscripts
+[10:49:59] ---------------
+[10:49:59]   Loaded 0 filterscripts.
+
+[10:49:59] 
+----------------------------------
+[10:49:59]  Test Rozvoz Gamemode
+[10:49:59] ----------------------------------
+
+[10:49:59] Number of vehicle models: 0
+[10:50:18] [connection] 127.0.0.1:57275 requests connection cookie.
+[10:50:19] [connection] incoming connection: 127.0.0.1:57275 id: 0
+[10:50:19] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:58:18] 
+[10:58:18] Server Plugins
+[10:58:18] --------------
+[10:58:18]  Loaded 0 plugins.
+
+[10:58:18] 
+[10:58:18] Filterscripts
+[10:58:18] ---------------
+[10:58:18]   Loaded 0 filterscripts.
+
+[10:58:18] 
+----------------------------------
+[10:58:18]  Test Rozvoz Gamemode
+[10:58:18] ----------------------------------
+
+[10:58:18] Number of vehicle models: 0
+[10:58:20] [connection] 127.0.0.1:59679 requests connection cookie.
+[10:58:21] [connection] incoming connection: 127.0.0.1:59679 id: 0
+[10:58:21] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:28:54] 
+[11:28:54] Server Plugins
+[11:28:54] --------------
+[11:28:54]  Loaded 0 plugins.
+
+[11:28:54] 
+[11:28:54] Filterscripts
+[11:28:54] ---------------
+[11:28:54]   Loaded 0 filterscripts.
+
+[11:28:54] 
+----------------------------------
+[11:28:54]  Test Rozvoz Gamemode
+[11:28:54] ----------------------------------
+
+[11:28:54] Number of vehicle models: 0
+[11:28:59] [connection] 127.0.0.1:55419 requests connection cookie.
+[11:29:00] [connection] incoming connection: 127.0.0.1:55419 id: 0
+[11:29:00] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:30:46] 
+[11:30:46] Server Plugins
+[11:30:46] --------------
+[11:30:46]  Loaded 0 plugins.
+
+[11:30:46] 
+[11:30:46] Filterscripts
+[11:30:46] ---------------
+[11:30:46]   Loaded 0 filterscripts.
+
+[11:30:46] 
+----------------------------------
+[11:30:46]  Test Rozvoz Gamemode
+[11:30:46] ----------------------------------
+
+[11:30:46] Number of vehicle models: 0
+[11:31:04] [connection] 127.0.0.1:57862 requests connection cookie.
+[11:31:05] [connection] incoming connection: 127.0.0.1:57862 id: 0
+[11:31:05] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:33:49] 
+[11:33:49] Server Plugins
+[11:33:49] --------------
+[11:33:49]  Loaded 0 plugins.
+
+[11:33:49] 
+[11:33:49] Filterscripts
+[11:33:49] ---------------
+[11:33:49]   Loaded 0 filterscripts.
+
+[11:33:49] 
+----------------------------------
+[11:33:49]  Test Rozvoz Gamemode
+[11:33:49] ----------------------------------
+
+[11:33:49] Number of vehicle models: 0
+[11:34:01] [connection] 127.0.0.1:50272 requests connection cookie.
+[11:34:02] [connection] incoming connection: 127.0.0.1:50272 id: 0
+[11:34:02] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[11:35:17] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:37:53] 
+[11:37:53] Server Plugins
+[11:37:53] --------------
+[11:37:53]  Loaded 0 plugins.
+
+[11:37:53] 
+[11:37:53] Filterscripts
+[11:37:53] ---------------
+[11:37:53]   Loaded 0 filterscripts.
+
+[11:37:53] 
+----------------------------------
+[11:37:53]  Test Rozvoz Gamemode
+[11:37:53] ----------------------------------
+
+[11:37:53] Number of vehicle models: 0
+[11:38:19] [connection] 127.0.0.1:63495 requests connection cookie.
+[11:38:20] [connection] incoming connection: 127.0.0.1:63495 id: 0
+[11:38:20] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[11:40:34] [part] Jonathan_Sodertorm has left the server (0:1)
+Console input: wwww
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:43:12] 
+[11:43:12] Server Plugins
+[11:43:12] --------------
+[11:43:12]  Loaded 0 plugins.
+
+[11:43:12] 
+[11:43:12] Filterscripts
+[11:43:12] ---------------
+[11:43:12]   Loaded 0 filterscripts.
+
+[11:43:12] 
+----------------------------------
+[11:43:12]  Test Rozvoz Gamemode
+[11:43:12] ----------------------------------
+
+[11:43:12] Number of vehicle models: 0
+[11:43:59] [connection] 127.0.0.1:64648 requests connection cookie.
+[11:44:00] [connection] incoming connection: 127.0.0.1:64648 id: 0
+[11:44:00] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:44:49] 
+[11:44:49] Server Plugins
+[11:44:49] --------------
+[11:44:49]  Loaded 0 plugins.
+
+[11:44:49] 
+[11:44:49] Filterscripts
+[11:44:49] ---------------
+[11:44:49]   Loaded 0 filterscripts.
+
+[11:44:49] 
+----------------------------------
+[11:44:49]  Test Rozvoz Gamemode
+[11:44:49] ----------------------------------
+
+[11:44:49] Number of vehicle models: 0
+[11:45:02] [connection] 127.0.0.1:57898 requests connection cookie.
+[11:45:03] [connection] incoming connection: 127.0.0.1:57898 id: 0
+[11:45:13] [connection] incoming connection: 127.0.0.1:57900 id: 0
+[11:45:13] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:45:53] 
+[11:45:53] Server Plugins
+[11:45:53] --------------
+[11:45:53]  Loaded 0 plugins.
+
+[11:45:53] 
+[11:45:53] Filterscripts
+[11:45:53] ---------------
+[11:45:53]   Loaded 0 filterscripts.
+
+[11:45:53] 
+----------------------------------
+[11:45:53]  Test Rozvoz Gamemode
+[11:45:53] ----------------------------------
+
+[11:45:53] Number of vehicle models: 0
+[11:45:55] [connection] 127.0.0.1:53103 requests connection cookie.
+[11:45:56] [connection] incoming connection: 127.0.0.1:53103 id: 0
+[11:45:56] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:46:46] 
+[11:46:46] Server Plugins
+[11:46:46] --------------
+[11:46:46]  Loaded 0 plugins.
+
+[11:46:46] 
+[11:46:46] Filterscripts
+[11:46:46] ---------------
+[11:46:46]   Loaded 0 filterscripts.
+
+[11:46:46] 
+----------------------------------
+[11:46:46]  Test Rozvoz Gamemode
+[11:46:46] ----------------------------------
+
+[11:46:46] Number of vehicle models: 0
+[11:47:21] [connection] 127.0.0.1:49865 requests connection cookie.
+[11:47:22] [connection] incoming connection: 127.0.0.1:49865 id: 0
+[11:47:22] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:48:33] 
+[11:48:33] Server Plugins
+[11:48:33] --------------
+[11:48:33]  Loaded 0 plugins.
+
+[11:48:33] 
+[11:48:33] Filterscripts
+[11:48:33] ---------------
+[11:48:33]   Loaded 0 filterscripts.
+
+[11:48:33] 
+----------------------------------
+[11:48:33]  Test Rozvoz Gamemode
+[11:48:33] ----------------------------------
+
+[11:48:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:48:37] 
+[11:48:37] Server Plugins
+[11:48:37] --------------
+[11:48:37]  Loaded 0 plugins.
+
+[11:48:37] 
+[11:48:37] Filterscripts
+[11:48:37] ---------------
+[11:48:37]   Loaded 0 filterscripts.
+
+[11:48:37] 
+----------------------------------
+[11:48:37]  Test Rozvoz Gamemode
+[11:48:37] ----------------------------------
+
+[11:48:37] Number of vehicle models: 0
+[11:48:54] [connection] 127.0.0.1:59778 requests connection cookie.
+[11:48:55] [connection] incoming connection: 127.0.0.1:59778 id: 0
+[11:48:55] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[11:49:03] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:50:19] 
+[11:50:19] Server Plugins
+[11:50:19] --------------
+[11:50:19]  Loaded 0 plugins.
+
+[11:50:19] 
+[11:50:19] Filterscripts
+[11:50:19] ---------------
+[11:50:19]   Loaded 0 filterscripts.
+
+[11:50:19] 
+----------------------------------
+[11:50:19]  Test Rozvoz Gamemode
+[11:50:19] ----------------------------------
+
+[11:50:19] Number of vehicle models: 0
+[11:50:38] [connection] 127.0.0.1:52199 requests connection cookie.
+[11:50:39] [connection] incoming connection: 127.0.0.1:52199 id: 0
+[11:50:39] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:09:14] 
+[12:09:14] Server Plugins
+[12:09:14] --------------
+[12:09:14]  Loaded 0 plugins.
+
+[12:09:14] 
+[12:09:14] Filterscripts
+[12:09:14] ---------------
+[12:09:14]   Loaded 0 filterscripts.
+
+[12:09:14] 
+----------------------------------
+[12:09:14]  Test Rozvoz Gamemode
+[12:09:14] ----------------------------------
+
+[12:09:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:09:19] 
+[12:09:19] Server Plugins
+[12:09:19] --------------
+[12:09:19]  Loaded 0 plugins.
+
+[12:09:19] 
+[12:09:19] Filterscripts
+[12:09:19] ---------------
+[12:09:19]   Loaded 0 filterscripts.
+
+[12:09:19] 
+----------------------------------
+[12:09:19]  Test Rozvoz Gamemode
+[12:09:19] ----------------------------------
+
+[12:09:19] Number of vehicle models: 0
+[12:09:37] [connection] 127.0.0.1:58116 requests connection cookie.
+[12:09:38] [connection] incoming connection: 127.0.0.1:58116 id: 0
+[12:09:38] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:12:10] 
+[12:12:10] Server Plugins
+[12:12:10] --------------
+[12:12:10]  Loaded 0 plugins.
+
+[12:12:10] 
+[12:12:10] Filterscripts
+[12:12:10] ---------------
+[12:12:10]   Loaded 0 filterscripts.
+
+[12:12:10] 
+----------------------------------
+[12:12:10]  Test Rozvoz Gamemode
+[12:12:10] ----------------------------------
+
+[12:12:10] Number of vehicle models: 0
+[12:12:12] [connection] 127.0.0.1:56158 requests connection cookie.
+[12:12:13] [connection] incoming connection: 127.0.0.1:56158 id: 0
+[12:12:14] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[12:13:02] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:13:49] 
+[12:13:49] Server Plugins
+[12:13:49] --------------
+[12:13:49]  Loaded 0 plugins.
+
+[12:13:49] 
+[12:13:49] Filterscripts
+[12:13:49] ---------------
+[12:13:49]   Loaded 0 filterscripts.
+
+[12:13:49] 
+----------------------------------
+[12:13:49]  Test Rozvoz Gamemode
+[12:13:49] ----------------------------------
+
+[12:13:49] Number of vehicle models: 0
+[12:14:09] [connection] 127.0.0.1:49168 requests connection cookie.
+[12:14:10] [connection] incoming connection: 127.0.0.1:49168 id: 0
+[12:14:10] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[12:16:29] [part] Jonathan_Sodertorm has left the server (0:1)
+[12:18:16] [connection] 127.0.0.1:55585 requests connection cookie.
+[12:18:17] [connection] incoming connection: 127.0.0.1:55585 id: 0
+[12:18:17] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:26:25] 
+[12:26:25] Server Plugins
+[12:26:25] --------------
+[12:26:25]  Loaded 0 plugins.
+
+[12:26:25] 
+[12:26:25] Filterscripts
+[12:26:25] ---------------
+[12:26:25]   Loaded 0 filterscripts.
+
+[12:26:25] 
+----------------------------------
+[12:26:25]  Test Rozvoz Gamemode
+[12:26:25] ----------------------------------
+
+[12:26:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:26:30] 
+[12:26:30] Server Plugins
+[12:26:30] --------------
+[12:26:30]  Loaded 0 plugins.
+
+[12:26:30] 
+[12:26:30] Filterscripts
+[12:26:30] ---------------
+[12:26:30]   Loaded 0 filterscripts.
+
+[12:26:30] 
+----------------------------------
+[12:26:30]  Test Rozvoz Gamemode
+[12:26:30] ----------------------------------
+
+[12:26:30] Number of vehicle models: 0
+[12:26:40] [connection] 127.0.0.1:56186 requests connection cookie.
+[12:26:41] [connection] incoming connection: 127.0.0.1:56186 id: 0
+[12:26:41] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[12:27:29] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:29:03] 
+[12:29:03] Server Plugins
+[12:29:03] --------------
+[12:29:03]  Loaded 0 plugins.
+
+[12:29:03] 
+[12:29:03] Filterscripts
+[12:29:03] ---------------
+[12:29:03]   Loaded 0 filterscripts.
+
+[12:29:03] 
+----------------------------------
+[12:29:03]  Test Rozvoz Gamemode
+[12:29:03] ----------------------------------
+
+[12:29:03] Number of vehicle models: 0
+[12:29:26] [connection] 127.0.0.1:51909 requests connection cookie.
+[12:29:27] [connection] incoming connection: 127.0.0.1:51909 id: 0
+[12:29:27] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[12:30:14] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:32:53] 
+[12:32:53] Server Plugins
+[12:32:53] --------------
+[12:32:53]  Loaded 0 plugins.
+
+[12:32:53] 
+[12:32:53] Filterscripts
+[12:32:53] ---------------
+[12:32:53]   Loaded 0 filterscripts.
+
+[12:32:53] 
+----------------------------------
+[12:32:53]  Test Rozvoz Gamemode
+[12:32:53] ----------------------------------
+
+[12:32:53] Number of vehicle models: 0
+[12:33:11] [connection] 127.0.0.1:64730 requests connection cookie.
+[12:33:12] [connection] incoming connection: 127.0.0.1:64730 id: 0
+[12:33:13] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[12:33:59] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:39:31] 
+[12:39:31] Server Plugins
+[12:39:31] --------------
+[12:39:31]  Loaded 0 plugins.
+
+[12:39:31] 
+[12:39:31] Filterscripts
+[12:39:31] ---------------
+[12:39:31]   Loaded 0 filterscripts.
+
+[12:39:31] 
+----------------------------------
+[12:39:31]  Test Rozvoz Gamemode
+[12:39:31] ----------------------------------
+
+[12:39:31] Number of vehicle models: 0
+[12:39:49] [connection] 127.0.0.1:51258 requests connection cookie.
+[12:39:50] [connection] incoming connection: 127.0.0.1:51258 id: 0
+[12:39:50] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[12:40:34] [part] Jonathan_Sodertorm has left the server (0:1)
+[12:41:12] [connection] 127.0.0.1:50870 requests connection cookie.
+[12:41:13] [connection] incoming connection: 127.0.0.1:50870 id: 0
+[12:41:13] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[12:41:24] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:41:37] 
+[12:41:37] Server Plugins
+[12:41:37] --------------
+[12:41:37]  Loaded 0 plugins.
+
+[12:41:37] 
+[12:41:37] Filterscripts
+[12:41:37] ---------------
+[12:41:37]   Loaded 0 filterscripts.
+
+[12:41:37] 
+----------------------------------
+[12:41:37]  Test Rozvoz Gamemode
+[12:41:37] ----------------------------------
+
+[12:41:37] Number of vehicle models: 0
+[12:41:55] [connection] 127.0.0.1:61406 requests connection cookie.
+[12:41:56] [connection] incoming connection: 127.0.0.1:61406 id: 0
+[12:41:57] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[12:43:12] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:36:09] 
+[17:36:09] Server Plugins
+[17:36:09] --------------
+[17:36:09]  Loaded 0 plugins.
+
+[17:36:09] 
+[17:36:09] Filterscripts
+[17:36:09] ---------------
+[17:36:09]   Loaded 0 filterscripts.
+
+[17:36:09] 
+----------------------------------
+[17:36:09]  Test Rozvoz Gamemode
+[17:36:09] ----------------------------------
+
+[17:36:09] Number of vehicle models: 0
+[17:36:38] [connection] 127.0.0.1:62298 requests connection cookie.
+[17:36:39] [connection] incoming connection: 127.0.0.1:62298 id: 0
+[17:36:39] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[17:36:50] Spawned special car: 1
+[17:36:50] Special car id in array: 1
+[17:36:56] Exited from special car:
+VehicleID that player sit in: 1
+Special Car in Array: 1
+[17:37:12] Exited from special car:
+VehicleID that player sit in: 2
+Special Car in Array: 1
+[17:37:21] Entered in special car:
+VehicleID that player sit in: 0
+Special Car in Array: 1
+[17:37:28] Exited from special car:
+VehicleID that player sit in: 2
+Special Car in Array: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:38:15] 
+[17:38:15] Server Plugins
+[17:38:15] --------------
+[17:38:15]  Loaded 0 plugins.
+
+[17:38:15] 
+[17:38:15] Filterscripts
+[17:38:15] ---------------
+[17:38:15]   Loaded 0 filterscripts.
+
+[17:38:15] 
+----------------------------------
+[17:38:15]  Test Rozvoz Gamemode
+[17:38:15] ----------------------------------
+
+[17:38:15] Number of vehicle models: 0
+[17:38:17] [connection] 127.0.0.1:54317 requests connection cookie.
+[17:38:18] [connection] incoming connection: 127.0.0.1:54317 id: 0
+[17:38:18] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[17:38:23] Spawned special car: 1
+
+
+[17:38:23] Special car id in array: 1
+
+
+[17:38:36] Exited from special car:
+VehicleID that player sit in: 1
+Special Car in Array: 1
+
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:39:39] 
+[17:39:39] Server Plugins
+[17:39:39] --------------
+[17:39:39]  Loaded 0 plugins.
+
+[17:39:39] 
+[17:39:39] Filterscripts
+[17:39:39] ---------------
+[17:39:39]   Loaded 0 filterscripts.
+
+[17:39:39] 
+----------------------------------
+[17:39:39]  Test Rozvoz Gamemode
+[17:39:39] ----------------------------------
+
+[17:39:39] Number of vehicle models: 0
+[17:39:40] [connection] 127.0.0.1:54609 requests connection cookie.
+[17:39:41] [connection] incoming connection: 127.0.0.1:54609 id: 0
+[17:39:41] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[17:39:46] Spawned special car: 1
+
+[17:39:46] Special car id in array: 1
+
+
+[17:39:54] Exited from special car:
+VehicleID that player sit in: 1
+Special Car in Array: 1
+
+
+[17:40:06] Exited from special car:
+VehicleID that player sit in: 2
+Special Car in Array: 1
+
+
+[17:40:13] Entered in special car:
+VehicleID that player sit in: 0
+Special Car in Array: 1
+
+
+[17:40:20] Exited from special car:
+VehicleID that player sit in: 2
+Special Car in Array: 1
+
+
+[17:40:27] Entered in special car:
+VehicleID that player sit in: 0
+Special Car in Array: 1
+
+
+[17:40:37] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:46:44] 
+[17:46:44] Server Plugins
+[17:46:44] --------------
+[17:46:44]  Loaded 0 plugins.
+
+[17:46:44] 
+[17:46:44] Filterscripts
+[17:46:44] ---------------
+[17:46:44]   Loaded 0 filterscripts.
+
+[17:46:44] 
+----------------------------------
+[17:46:44]  Test Rozvoz Gamemode
+[17:46:44] ----------------------------------
+
+[17:46:44] Number of vehicle models: 0
+[17:47:03] [connection] 127.0.0.1:58007 requests connection cookie.
+[17:47:04] [connection] incoming connection: 127.0.0.1:58007 id: 0
+[17:47:04] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[17:47:18] Spawned special car: 1
+
+[17:47:18] Special car id in array: 1
+
+
+[17:48:19] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:53:10] 
+[17:53:10] Server Plugins
+[17:53:10] --------------
+[17:53:10]  Loaded 0 plugins.
+
+[17:53:10] 
+[17:53:10] Filterscripts
+[17:53:10] ---------------
+[17:53:10]   Loaded 0 filterscripts.
+
+[17:53:10] 
+----------------------------------
+[17:53:10]  Test Rozvoz Gamemode
+[17:53:10] ----------------------------------
+
+[17:53:10] Number of vehicle models: 0
+[17:53:29] [connection] 127.0.0.1:62097 requests connection cookie.
+[17:53:30] [connection] incoming connection: 127.0.0.1:62097 id: 0
+[17:53:30] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[17:53:36] Spawned special car: 1
+
+[17:53:36] Special car id in array: 1
+
+
+[17:53:45] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:54:32] 
+[17:54:32] Server Plugins
+[17:54:32] --------------
+[17:54:32]  Loaded 0 plugins.
+
+[17:54:32] 
+[17:54:32] Filterscripts
+[17:54:32] ---------------
+[17:54:32]   Loaded 0 filterscripts.
+
+[17:54:32] 
+----------------------------------
+[17:54:32]  Test Rozvoz Gamemode
+[17:54:32] ----------------------------------
+
+[17:54:32] Number of vehicle models: 0
+[17:54:51] [connection] 127.0.0.1:61173 requests connection cookie.
+[17:54:52] [connection] incoming connection: 127.0.0.1:61173 id: 0
+[17:54:52] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[17:55:27] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:02:40] 
+[18:02:40] Server Plugins
+[18:02:40] --------------
+[18:02:40]  Loaded 0 plugins.
+
+[18:02:40] 
+[18:02:40] Filterscripts
+[18:02:40] ---------------
+[18:02:40]   Loaded 0 filterscripts.
+
+[18:02:40] 
+----------------------------------
+[18:02:40]  Test Rozvoz Gamemode
+[18:02:40] ----------------------------------
+
+[18:02:40] Number of vehicle models: 0
+[18:02:58] [connection] 127.0.0.1:59366 requests connection cookie.
+[18:02:59] [connection] incoming connection: 127.0.0.1:59366 id: 0
+[18:02:59] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[18:07:05] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:39] 
+[21:22:39] Server Plugins
+[21:22:39] --------------
+[21:22:39]  Loaded 0 plugins.
+
+[21:22:40] 
+[21:22:40] Filterscripts
+[21:22:40] ---------------
+[21:22:40]   Loaded 0 filterscripts.
+
+[21:22:40] 
+----------------------------------
+[21:22:40]  Test Rozvoz Gamemode
+[21:22:40] ----------------------------------
+
+[21:22:40] Number of vehicle models: 0
+[21:23:12] [connection] 127.0.0.1:54708 requests connection cookie.
+[21:23:13] [connection] incoming connection: 127.0.0.1:54708 id: 0
+[21:23:13] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[21:24:08] [part] Jonathan_Sodertorm has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:24:21] 
+[21:24:21] Server Plugins
+[21:24:21] --------------
+[21:24:21]  Loaded 0 plugins.
+
+[21:24:21] 
+[21:24:21] Filterscripts
+[21:24:21] ---------------
+[21:24:21]   Loaded 0 filterscripts.
+
+[21:24:21] 
+----------------------------------
+[21:24:21]  Test Rozvoz Gamemode
+[21:24:21] ----------------------------------
+
+[21:24:21] Number of vehicle models: 0
+[21:52:16] [connection] 127.0.0.1:63922 requests connection cookie.
+[21:52:17] [connection] incoming connection: 127.0.0.1:63922 id: 0
+[21:52:18] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[21:53:49] [part] Jonathan_Sodertorm has left the server (0:1)
+[21:54:27] [connection] 127.0.0.1:49203 requests connection cookie.
+[21:54:28] [connection] incoming connection: 127.0.0.1:49203 id: 0
+[21:54:28] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[21:54:39] [part] Jonathan_Sodertorm has left the server (0:1)
+[22:38:27] [connection] 127.0.0.1:60177 requests connection cookie.
+[22:38:28] [connection] incoming connection: 127.0.0.1:60177 id: 0
+[22:38:29] [join] Jonathan_Sodertorm has joined the server (0:127.0.0.1)
+[22:38:36] [part] Jonathan_Sodertorm has left the server (0:1)
